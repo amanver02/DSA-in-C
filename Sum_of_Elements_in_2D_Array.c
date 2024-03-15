@@ -3,7 +3,7 @@
 #define ROWS 2   
 #define COLS 3  
 int main() {
-    int array[ROWS][COLS];
+     int array[ROWS][COLS];
     int i, j, sum = 0;
 
     printf("Enter elements for the 2D array (%d x %d):\n", ROWS, COLS);
