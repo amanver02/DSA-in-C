@@ -4,7 +4,7 @@ int main() {
     float num, sum = 0;
 
     printf("Enter the number of elements in the set: ");
-    scanf("%d", &n);
+     scanf("%d", &n);
 
     for (i = 0; i < n; i++) {
         printf("Enter element %d: ", i + 1);
