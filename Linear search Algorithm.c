@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int linear_search(int arr[], int size, int target) {
+ int linear_search(int arr[], int size, int target) {
     for (int i = 0; i < size; i++) {
         if (arr[i] == target) {
             return i;  // Return the index of the target element if found
