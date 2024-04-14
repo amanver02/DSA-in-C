@@ -10,7 +10,7 @@ int main() {
         for (j = 0; j < COLS; j++) {
             printf("Enter element at position [%d][%d]: ", i, j);
             scanf("%d", &array[i][j]);
-        }
+     c   }
     }
     for (i = 0; i < ROWS; i++) {
         for (j = 0; j < COLS; j++) {
