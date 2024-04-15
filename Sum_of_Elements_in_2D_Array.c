@@ -1,4 +1,4 @@
-#include <stdio.h>
+ #include <stdio.h>
  
 # define ROWS 2   
 #define COLS 3  
