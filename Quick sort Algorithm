@@ -2,7 +2,7 @@
 
 // Function to partition the array and return the pivot index
 
-int partition(int arr[], int low, int high) {
+ int partition(int arr[], int low, int high) {
 
 int pivot = arr[high];
 
