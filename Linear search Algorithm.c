@@ -6,7 +6,7 @@
             return i;  // Return the index of the target element if found
         }
     }
-    return -1;  // Re turn -1 if the target element is not in the array
+    return -1;  // Re turn  -1 if the target element is not in the array
 }
 
 int main() {
